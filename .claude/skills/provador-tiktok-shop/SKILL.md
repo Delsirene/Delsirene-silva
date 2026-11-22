@@ -88,6 +88,7 @@ Esta skill codifica o estilo aprendido de 12 vídeos de referência de moda femi
 | **M43 Afasta de costas** | Anda se afastando de costas para a câmera, balançando o quadril | 2–3 passos | Costas e caimento |
 | **M44 Mãos para cima** | Levanta os dois braços e gira o tronco | No refrão da música | A peça não sobe nem desajusta |
 | **M45 "Não amassa" (só falado)** | Enquanto a mão passa no tecido (como no M4), ela fala "e não amassa!". **Não aperta, não amassa, não demonstra nada**: é só o gesto de passar a mão + a fala | 1–2 s, dentro do fluxo | Reforça "não amassa" sem alongar o vídeo (só se estiver no anúncio). *Preferência da criadora: curto, nunca demonstrar como teste.* |
+| **M45b "Não amassa" com teste curto** | Quando a criadora pedir teste: aperta o tecido da coxa na mão por ~1 s, solta e passa a mão; volta liso. Fala só "olha… não amassa!", **sem anunciar "vou fazer o teste"** | 2 s no máximo, close | Prova visual rápida |
 
 ### Modo dinâmico (edição)
 
