@@ -1,7 +1,9 @@
 ---
 name: provador-tiktok-shop
-description: Coreografia e roteiro de vídeos "provador" para TikTok Shop de moda feminina (calças, jeans, bermudas, moletom, alfaiataria, saias). Use sempre que a criadora pedir roteiro, sequência de movimentos, lista de takes, direção para modelo ou prompt de vídeo com IA para mostrar uma peça no corpo — mesmo que ela só diga "faz o vídeo dessa calça", "como a modelo deve se mexer" ou mande a foto/link de um produto.
+description: Coreografia e roteiro de vídeos "provador" para TikTok Shop de moda feminina — conjunto curto, conjunto longo, vestido, calça jeans, alfaiataria, blusa, saia, bermuda, moletom e qualquer outra peça. Use SEMPRE que a criadora mandar uma imagem/foto de roupa (mesmo sem texto), ou pedir roteiro, sequência de movimentos, direção para modelo ou prompt de vídeo com IA. Também use quando ela mandar vídeos de referência para estudar, para atualizar esta skill.
 ---
+
+> **Regra principal:** quando chegar uma imagem de roupa, identifique a peça na hora e entregue o roteiro de movimento completo, sem perguntar nada antes. Só pergunte se a imagem não mostrar a peça com clareza.
 
 # Provador TikTok Shop — estilo de movimento
 
@@ -36,6 +38,20 @@ Use estes nomes ao montar roteiros (a criadora pode citar só o código).
 | **M11 Perfil 3/4** | Vira de lado, uma mão na cintura | Quadril projetado | Silhueta, cintura alta | 03 (10,7 s), 04 |
 | **M12 Pose final** | Mãos na cintura/quadril (ou polegares nos passantes), joga o cabelo | Segura 1 s | Fechamento confiante | 01 (12 s), 03 (11,3 s) |
 
+### Movimentos para parte de cima e peças inteiras (provisórios)
+
+Estes movimentos ainda **não foram vistos** nas referências. São adaptações do mesmo estilo para cobrir blusa, vestido e conjunto. Quando um vídeo de referência confirmar ou corrigir um deles, atualize a linha e cite o vídeo.
+
+| Código | Movimento | Como fazer | O que vende |
+|---|---|---|---|
+| **M13 Ajuste de gola/decote** | Dedos correm pela gola, alça ou decote | Lento, close do colo para baixo | Acabamento, modelagem do decote |
+| **M14 Giro de saia** | Meio giro ou giro completo, a saia/vestido abre | Braços levemente afastados do corpo | Fluidez, rodado, leveza |
+| **M15 Marca a cintura** | As duas mãos apertam a cintura e descem até o quadril | Simétrico, de frente | Cintura marcada, silhueta |
+| **M16 Braços para cima** | Ajeita o cabelo com os dois braços erguidos, depois vira de costas | Devagar | Costas, alças, a blusa não sobe |
+| **M17 Barra da blusa** | Puxa a barra para baixo ou dá o nó na frente | Close na cintura | Comprimento, versatilidade |
+| **M18 Manga** | Estica o braço e a outra mão desliza pela manga | Close do ombro ao punho | Tecido, comprimento da manga |
+| **M19 Conjunto completo** | Recua até o corpo inteiro e dá meio giro mostrando as duas peças juntas | Plano aberto | Peças combinando, look pronto |
+
 ## Estrutura padrão (10–12 s)
 
 | Tempo | Bloco | Movimentos | Câmera |
@@ -53,6 +69,8 @@ Use estes nomes ao montar roteiros (a criadora pode citar só o código).
 
 ## Ajuste por tipo de peça
 
+Validado nas referências (calças e bermudas):
+
 - **Calça wide / pantalona / jeans largo:** enfatize M3, M6 e M9 (o tecido "balança"). Tênis branco.
 - **Skinny / legging / jeans modelador:** enfatize M4, M5, M10 e M11. Mais tempo de costas e de perfil. Movimento mais lento.
 - **Alfaiataria:** gestos mais contidos e elegantes, scarpin nude, M3 só com joelho alto (sem chute), M10 com mãos espalmadas nos bolsos traseiros. Cenário café/restaurante sofisticado.
@@ -60,11 +78,31 @@ Use estes nomes ao montar roteiros (a criadora pode citar só o código).
 - **Bermuda / short:** M6 (folga da perna), M8, M10. Câmera um pouco mais baixa.
 - **Peças com estampa:** mais tempo em plano aberto; o close tem que mostrar a estampa nítida.
 
+Adaptados (provisórios até chegarem referências dessas categorias):
+
+- **Conjunto curto (short/saia curta + top):** abertura em plano inteiro com M19, depois M3 e M6 no short e M15 + M17 no top. Termina com M10 e M19. Tênis ou rasteira, cenário claro e de verão.
+- **Conjunto longo (calça/saia longa + blusa):** M19 abre e fecha o vídeo. Mais M9 (passarela longa), M4 no tecido e M15 para unir as duas peças. Sandália ou scarpin, cenário de hotel.
+- **Vestido:** o enquadramento sobe para do queixo aos pés. Abre com M14, depois M15, M13, M9 e M10 com M16 para mostrar as costas. Se for vestido justo, troque M14 por M11 e M4.
+- **Blusa / top / camisa:** enquadramento do queixo até o meio da coxa, com a blusa por dentro de uma calça neutra. Sequência M13, M18, M17, M16, M10. Não use chute (M3); use meio giro de ombro no lugar.
+- **Saia:** saia rodada segue o vestido (M14 + M9). Saia lápis ou justa segue o skinny (M4, M11, M10). Mostre a fenda com M2.
+
+## Como identificar a peça pela imagem
+
+Ao receber uma foto, observe e registre em uma linha:
+
+- **Categoria:** conjunto curto, conjunto longo, vestido, calça, blusa, saia, bermuda, macacão…
+- **Modelagem:** justa, reta, wide, rodada, oversized, cropped.
+- **Tecido aparente:** jeans, alfaiataria, malha, moletom, linho, cetim, tricô.
+- **Detalhes vendáveis:** cintura alta, cós elástico, botões, fenda, bolsos, amarração, decote, alças, estampa.
+- **Ocasião:** casa, dia a dia, trabalho, festa, praia.
+
+Escolha a linha correspondente em "Ajuste por tipo de peça". Se a peça misturar categorias (por exemplo, macacão), combine os movimentos das duas.
+
 ## Como responder a um pedido
 
-Quando a criadora mandar um produto (nome, foto, link ou descrição):
+Quando a criadora mandar um produto (foto, nome, link ou descrição):
 
-1. Identifique o tipo de peça e os **3 atributos que mais vendem** (ex.: "cintura alta, não marca, tem elastano").
+1. Identifique a peça (seção acima) e os **3 atributos que mais vendem** (ex.: "cintura alta, não marca, tem elastano").
 2. Ligue cada atributo a um movimento da biblioteca.
 3. Entregue:
    - **Roteiro em tabela** (tempo | movimento | direção para a modelo | enquadramento | texto na tela opcional).
@@ -72,7 +110,24 @@ Quando a criadora mandar um produto (nome, foto, link ou descrição):
    - **Sugestão de áudio:** batida pop/funk leve, 100–120 BPM, cortes no tempo da música.
    - **Prompt para IA de vídeo** (se ela usa IA), no modelo abaixo.
    - **Checklist rápido** antes de postar.
-4. Se ela mandar um novo vídeo de referência, use a skill `watch` (ou extraia quadros com ffmpeg), compare com esta biblioteca e **adicione os movimentos novos a esta skill**.
+4. Se ela mandar um novo vídeo de referência, siga "Aprendizado contínuo".
+
+## Aprendizado contínuo (novos vídeos de referência)
+
+Quando ela mandar vídeos para estudar:
+
+1. Para cada vídeo, gere uma grade de quadros com o tempo marcado: cerca de 1,5 quadro/s para vídeos de até 15 s e 0,5 quadro/s para vídeos longos.
+   ```bash
+   ffmpeg -i VIDEO -vf "fps=1.5,scale=230:-2,drawtext=text='%{pts\:hms}':x=4:y=4:fontsize=18:fontcolor=yellow:box=1:boxcolor=black@0.6,tile=7x3:padding=4" -frames:v 1 grade.jpg
+   ```
+   Olhe as grades. A skill `watch` também serve, se estiver instalada.
+2. Anote a sequência de movimentos com os tempos e compare com a biblioteca:
+   - Movimento já existente → acrescente o vídeo na coluna "Visto em".
+   - Movimento provisório (M13–M19) confirmado → mova para a tabela principal.
+   - Movimento novo → crie o próximo código (M20, M21…).
+3. Se for uma categoria nova, troque o texto "provisório" daquela categoria pelo padrão observado.
+4. Salve a grade em `referencias/NN-categoria-descricao.jpg`, continuando a numeração, e liste o arquivo na seção abaixo.
+5. Conte para a criadora, em poucas linhas, o que mudou na skill e faça commit.
 
 ## Modelo de prompt para vídeo com IA
 
