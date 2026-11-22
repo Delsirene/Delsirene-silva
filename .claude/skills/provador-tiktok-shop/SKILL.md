@@ -110,6 +110,7 @@ Adaptados (provisórios até chegarem referências):
 - **Vestido:** enquadramento do queixo aos pés. M14 (giro), M15, M13, M9, M10 com M16. Vestido justo: troque M14 por M11 e M4.
 - **Blusa / camisa:** enquadramento do queixo até o meio da coxa, blusa por dentro de calça neutra. M13, M18, M17, M16, M10. Sem M3.
 - **Saia:** rodada como o vestido; justa como o skinny; mostre a fenda com M2.
+- **Macacão longo (social/pantalona):** 1 cor → Formato A estendido para 30 s, com gancho do pacote (M20). Na parte de cima: M13 no decote/recortes e M15 na faixa da cintura. Na parte de baixo: M8 com as duas mãos nos bolsos, M3 e M9 (a perna wide balança). Nas costas: M10 + M16; se houver lastex/franzido, puxe e solte o elástico (mostra que veste vários corpos). Scarpin branco ou nude. Closet/quarto claro.
 
 ## Narração e texto na tela
 
