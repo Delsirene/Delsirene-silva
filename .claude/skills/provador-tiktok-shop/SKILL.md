@@ -150,18 +150,32 @@ Adaptados (provisórios até chegarem referências):
 - **Saia:** rodada como o vestido; justa como o skinny; mostre a fenda com M2.
 - **Macacão longo (social/pantalona):** 1 cor → Formato A estendido para 30 s, com gancho do pacote (M20). Na parte de cima: M13 no decote/recortes e M15 na faixa da cintura. Na parte de baixo: M8 com as duas mãos nos bolsos, M3 e M9 (a perna wide balança). Nas costas: M10 + M16; se houver lastex/franzido, puxe e solte o elástico (mostra que veste vários corpos). Scarpin branco ou nude. Closet/quarto claro.
 
-## Narração e texto na tela
+## Narração (estilo da criadora)
 
-As referências 08–12 têm música de fundo e, pelo espectrograma, provavelmente **uma voz falando por cima**. O conteúdo da fala **ainda não foi transcrito**: a sessão em que foram estudadas não conseguia baixar um modelo de transcrição. Até a criadora mandar o texto (ou uma transcrição), use a estrutura abaixo como **provisória**. É a estrutura comum de vídeos do TikTok Shop, não aprendida destes vídeos:
+### Fala original da criadora (referência real, macacão em várias cores)
 
-| Tempo | Fala (exemplo para calça de alfaiataria) |
-|---|---|
-| 0–3 s (gancho) | "Olha o que chegou! A calça de alfaiataria que não amassa e veste do 36 ao 46." |
-| 3–12 s (benefícios, 1 por cor) | "Cintura alta que modela… bolso de verdade, cabe o celular… tecido com elastano, não marca." |
-| 12–18 s (cores / prova social) | "Tem preta, azul-marinho e lilás, e já é a mais vendida da loja." |
-| 18–22 s (CTA, junto com a seta) | "Clica no carrinho aqui embaixo antes que acabe o seu tamanho!" |
+> "Esses macacões são tão confortáveis e baratinhos que eu já peguei mais três cores! Amiga, olha que coisa mais linda! É difícil escolher uma cor só quando todas são maravilhosas assim! E olha esse modelo, os detalhes no busto, a cintura marcada e essa pantalona toda elegante! Tem aquela aparência de roupa de boutique, sabe? E já imaginou usar um desses nas festas de fim de ano? Dá pra escolher uma cor pra cada ocasião! E quando você conferir o preço, vai entender por que dá vontade de levar mais de um! Clica no carrinho laranja aqui embaixo e dá uma olhadinha!"
 
-Regras para a fala: frases curtas, 1 benefício por corte, o CTA sincronizado com a seta (M22), sem prometer o que o produto não tem.
+### A estrutura (7 passos, 25–30 s, ~65–80 palavras)
+
+1. **Gancho de confissão / prova de compra:** "gostei tanto que peguei mais cores".
+2. **Intimidade:** "amiga", falando com uma pessoa só.
+3. **Desejo pelas cores:** "difícil escolher uma só".
+4. **Detalhes, cada um casado com o que a câmera mostra:** busto → cintura → pantalona (→ costas).
+5. **Valor percebido:** "cara de boutique", parece caro.
+6. **Ocasião de uso no calendário:** festas de fim de ano, "uma cor para cada ocasião".
+7. **Preço como curiosidade** (nunca falar o valor) + **CTA "carrinho laranja aqui embaixo"**.
+
+### Regras para melhorar qualquer fala
+
+- O gancho tem que ter **conflito ou confissão** nos primeiros 2 s ("fiz besteira", "não era pra eu ter feito isso").
+- **Uma frase por corte.** Cada detalhe citado aparece na tela naquele instante.
+- **Responda a uma objeção** (amassa? aperta? serve em mim?) usando o que a modelo está fazendo (agachar, correr, sentar).
+- **Imagens concretas** em vez de adjetivos vagos ("cai feito vestido de festa" em vez de "elegante").
+- **Preço sempre como mistério**, sem número (o preço muda; a curiosidade leva ao clique).
+- **CTA com motivo para agir agora:** tamanho acabando, promoção com data, "antes que esgote".
+- Só cite o que é verdade na peça e no anúncio (ex.: "não amassa" só se estiver na descrição).
+- Tom de amiga animada, frases curtas, ritmo rápido (≈3 palavras/s).
 
 ## Como identificar a peça pela imagem
 
