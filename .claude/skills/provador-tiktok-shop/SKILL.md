@@ -87,7 +87,7 @@ Esta skill codifica o estilo aprendido de 12 vídeos de referência de moda femi
 | **M42 Pivô de passarela** | Anda para a câmera, gira meio corpo e volta andando de costas | Fluido | Frente e costas num só take |
 | **M43 Afasta de costas** | Anda se afastando de costas para a câmera, balançando o quadril | 2–3 passos | Costas e caimento |
 | **M44 Mãos para cima** | Levanta os dois braços e gira o tronco | No refrão da música | A peça não sobe nem desajusta |
-| **M45 Teste do não amassa** | Aperta e torce o tecido da perna com as duas mãos por 2–3 s, solta e passa a mão: o tecido volta liso | Close; corte rápido de "antes/depois"; fala "olha… nada!" | Prova que não amassa (só se for verdade no anúncio) |
+| **M45 Não amassa (discreto)** | A palma desliza pela coxa, aperta o tecido na mão e solta: o tecido volta liso. **Sem anunciar "teste"**; a fala só diz uma vez "e ele não amassa!" | Close rápido, 1–2 s, dentro do fluxo | Prova que não amassa (só se for verdade no anúncio). *Preferência da criadora: nunca dramatizar o teste.* |
 
 ### Modo dinâmico (edição)
 
@@ -266,7 +266,7 @@ Do not change, add or exaggerate any detail of the clothing.
 - M39: *She runs both hands down the sides of her body from bust to hips.*
 - M42: *She walks toward the camera, pivots and walks away.*
 - M44: *She raises both arms and twists her torso.*
-- M45: *She tightly squeezes and twists the fabric of the pant leg with both hands for two seconds, releases it and smooths it with her palm; the fabric falls back perfectly smooth with no wrinkles.*
+- M45: *She slides her open palm down her thigh, squeezes the fabric in her hand and releases it; the fabric falls back smooth with no wrinkles.*
 
 > Gere **no máximo 2–3 ações por clipe**. Com mais ações, o gerador mistura tudo e deforma a peça. Para um vídeo dinâmico, gere muitos clipes curtos e corte bastante na edição.
 
