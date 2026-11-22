@@ -87,7 +87,7 @@ Esta skill codifica o estilo aprendido de 12 vídeos de referência de moda femi
 | **M42 Pivô de passarela** | Anda para a câmera, gira meio corpo e volta andando de costas | Fluido | Frente e costas num só take |
 | **M43 Afasta de costas** | Anda se afastando de costas para a câmera, balançando o quadril | 2–3 passos | Costas e caimento |
 | **M44 Mãos para cima** | Levanta os dois braços e gira o tronco | No refrão da música | A peça não sobe nem desajusta |
-| **M45 Não amassa (discreto)** | A palma desliza pela coxa, aperta o tecido na mão e solta: o tecido volta liso. **Sem anunciar "teste"**; a fala só diz uma vez "e ele não amassa!" | Close rápido, 1–2 s, dentro do fluxo | Prova que não amassa (só se for verdade no anúncio). *Preferência da criadora: nunca dramatizar o teste.* |
+| **M45 "Não amassa" (só falado)** | Enquanto a mão passa no tecido (como no M4), ela fala "e não amassa!". **Não aperta, não amassa, não demonstra nada**: é só o gesto de passar a mão + a fala | 1–2 s, dentro do fluxo | Reforça "não amassa" sem alongar o vídeo (só se estiver no anúncio). *Preferência da criadora: curto, nunca demonstrar como teste.* |
 
 ### Modo dinâmico (edição)
 
@@ -266,7 +266,7 @@ Do not change, add or exaggerate any detail of the clothing.
 - M39: *She runs both hands down the sides of her body from bust to hips.*
 - M42: *She walks toward the camera, pivots and walks away.*
 - M44: *She raises both arms and twists her torso.*
-- M45: *She slides her open palm down her thigh, squeezes the fabric in her hand and releases it; the fabric falls back smooth with no wrinkles.*
+- M45: *She slides her open palm smoothly down the fabric on her thigh.* (a fala "e não amassa!" vai na narração)
 
 > Gere **no máximo 2–3 ações por clipe**. Com mais ações, o gerador mistura tudo e deforma a peça. Para um vídeo dinâmico, gere muitos clipes curtos e corte bastante na edição.
 
