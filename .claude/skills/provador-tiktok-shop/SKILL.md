@@ -1,169 +1,219 @@
 ---
 name: provador-tiktok-shop
-description: Coreografia e roteiro de vídeos "provador" para TikTok Shop de moda feminina — conjunto curto, conjunto longo, vestido, calça jeans, alfaiataria, blusa, saia, bermuda, moletom e qualquer outra peça. Use SEMPRE que a criadora mandar uma imagem/foto de roupa (mesmo sem texto), ou pedir roteiro, sequência de movimentos, direção para modelo ou prompt de vídeo com IA. Também use quando ela mandar vídeos de referência para estudar, para atualizar esta skill.
+description: Coreografia e roteiro de vídeos para TikTok Shop de moda feminina — conjunto curto, conjunto longo, vestido, calça jeans, alfaiataria, blusa, saia, bermuda, short, pijama, moletom e qualquer outra peça. Use SEMPRE que a criadora mandar uma imagem/foto de roupa (mesmo sem texto), ou pedir roteiro, sequência de movimentos, direção para modelo ou prompt de vídeo com IA. Também use quando ela mandar vídeos de referência para estudar, para atualizar esta skill.
 ---
 
-> **Regra principal:** quando chegar uma imagem de roupa, identifique a peça na hora e entregue o roteiro de movimento completo, sem perguntar nada antes. Só pergunte se a imagem não mostrar a peça com clareza.
+> **Regra principal:** quando chegar uma imagem de roupa, identifique a peça na hora e entregue o roteiro completo, sem perguntar nada antes. Só pergunte se a imagem não mostrar a peça com clareza.
+>
+> **Duração padrão da criadora: 25 a 40 s.** Todo roteiro sai nesse tamanho, salvo pedido diferente.
 
-# Provador TikTok Shop — estilo de movimento
+# Vídeos TikTok Shop — estilo de movimento e roteiro
 
-Esta skill codifica o estilo aprendido de 7 vídeos de referência que performam no TikTok Shop de moda feminina (grades de quadros em `referencias/`). O formato é sempre o mesmo: **9–15 s, vertical 9:16, sem rosto, a modelo nunca para de se mexer e cada movimento demonstra uma qualidade da peça.**
+Esta skill codifica o estilo aprendido de 12 vídeos de referência de moda feminina que performam no TikTok Shop (grades de quadros em `referencias/`). Responda sempre em português. Prompts para geradores de vídeo com IA vão em inglês (funcionam melhor), com tradução curta ao lado.
 
-Responda sempre em português, a menos que a criadora peça outra língua. Prompts para geradores de vídeo com IA vão em inglês (funcionam melhor), com tradução curta ao lado.
+## Os dois formatos
 
-## Os 5 princípios do estilo
+| | **Formato A — Provador** | **Formato B — Vitrine de cores** |
+|---|---|---|
+| Quando usar | Peça de 1 cor, ou para destacar caimento e movimento | Peça vendida em várias cores (o caso mais comum na loja) |
+| Duração | 10–15 s (ou 30–45 s em ciclo) | ~20 s de conteúdo + 3–5 s de cartão final = **25 s** |
+| Ritmo | Movimento contínuo, 1 gesto/s | Corte seco a cada 1–1,5 s alternando a cor |
+| Câmera | Aproxima e afasta (closes de tecido) | Quase sempre parada e frontal; closes curtos |
+| Gancho | Modelo já em movimento | **Tirando a peça do pacote** (M20) |
+| CTA | Pose final | **Seta vermelha apontando para o carrinho** (M22) no último terço + cartão do @ |
+| Cenário | Lobby de hotel, mármore, luz quente | Quarto ou closet claro, abajur aceso, piso claro |
+| Ref. | 01–07 | 08–12 |
 
-1. **Corpo é a vitrine, rosto fica fora.** Enquadramento do queixo/peito até os pés. Em close, só quadril e coxa. Isso foca no produto e permite qualquer modelo (ou IA) repetir.
-2. **Todo movimento "vende" um atributo.** Nada é dança aleatória: chute = elasticidade e caimento; puxar o tecido = stretch; mão deslizando = textura; mão no bolso = bolso funcional; virar de costas = bumbum e bolsos traseiros.
-3. **Movimento contínuo, ritmo de 1 gesto a cada ~1 s.** Nenhuma pose fica parada mais de 1,5 s. Transições suaves, nunca bruscas.
-4. **Postura feminina e segura.** Peso numa perna, quadril levemente projetado, joelho da perna livre um pouco para dentro (contrapposto), ponta do pé alongada, ombros relaxados. Mãos sempre com dedos soltos e alongados — nunca punho fechado.
-5. **Cenário "caro" e figurino neutro.** Lobby de hotel, mármore, madeira, luz quente e baixa; sala clara e organizada para peças casuais. Top cropped liso e justo (branco, off-white ou uma cor sólida que contraste) para deixar a cintura da peça à mostra. Tênis branco para jeans/casual, scarpin nude para alfaiataria, chinelo slide para pijama.
+**Para 25–40 s:** use o Formato B com 3 cores (25 s). Para chegar a 30–40 s, adicione uma 4ª cor ou um bloco do Formato A (joelho alto + costas) antes do CTA.
+
+## Os princípios do estilo (valem para os dois)
+
+1. **O corpo é a vitrine e o rosto fica fora.** Enquadramento do queixo/peito até os pés. Em close, só cintura, quadril e coxa.
+2. **Todo movimento "vende" um atributo.** Joelho alto = elasticidade; puxar o tecido = stretch; mão deslizando = textura; mão no bolso = bolso funcional; virar de costas = bumbum e bolsos traseiros; tirar do pacote = produto real, chega bem embalado.
+3. **Nada fica parado mais de 1,5 s.** Ou a modelo se mexe ou o vídeo corta.
+4. **Postura feminina e segura.** Peso numa perna, quadril levemente projetado, joelho livre para dentro, ponta do pé alongada, ombros relaxados, dedos soltos e alongados — nunca punho fechado. Unhas feitas e relógio ou pulseira dourada aparecem muito nos closes de mão.
+5. **Figurino neutro que destaca a peça.** Regata ou cropped liso e justo (branco é o mais usado; preto quando a peça é clara ou estampada), sempre deixando a cintura da peça à mostra. Tênis branco para casual/wide, sandália de salto fina preta ou scarpin nude para alfaiataria, chinelo ou descalça para pijama.
 
 ## Biblioteca de movimentos
 
-Use estes nomes ao montar roteiros (a criadora pode citar só o código).
-
 | Código | Movimento | Como fazer | O que vende | Visto em |
 |---|---|---|---|---|
-| **M1 Pose de abertura** | Em pé de frente, peso numa perna, uma mão ajusta a barra do cropped ou repousa na cintura | Já começa em movimento leve (meio passo ou balanço de quadril) | Caimento geral, cintura alta | todos, 0 s |
-| **M2 Passo-gancho** | Um passo à frente cruzando levemente a perna | Pisa na ponta, quadril acompanha | Movimento do tecido | 01, 03, 05 |
-| **M3 Joelho alto / chute lateral** | Levanta o joelho até a altura do quadril ou chuta a perna para o lado, a mão desliza pela coxa | Rápido para subir, lento para descer | Elasticidade, não aperta, liberdade | 01 (1,3 s), 02 (2 s), 03 (1,3–2,7 s), 07 (2,7 s) |
-| **M4 Mão que desliza** | Palma aberta desliza do quadril até o meio da coxa | Devagar, dedos alongados, câmera em close | Textura macia, tecido de qualidade | 02, 04, 06 (4,7 s) |
-| **M5 Belisca-e-estica** | Pinça o tecido da coxa com 2 dedos e puxa para longe da perna, solta | Puxa e segura 0,5 s | Stretch, tecido com elastano | 04 (26 s), 06 (6–6,7 s) |
-| **M6 Abre-as-laterais** | As duas mãos pegam o tecido nas laterais do quadril e abrem para fora | Simétrico, de frente | Perna larga / folga / modelagem wide | 01 (6,7 s), 05 (1,3 e 5,3 s), 07 (6 s) |
-| **M7 Cós elástico** | Polegar puxa o cós para fora e solta | Close na cintura | Cós confortável, ajuste | 01 (3,3 s), 02 (7,3 s), 07 (4,7 s) |
-| **M8 Mão no bolso** | Enfia a mão no bolso da frente até o punho | Natural, quadril para o lado do bolso | Bolso fundo e funcional | 03 (5,3 s), 05 (2,7 s), 01 (5,3 s) |
-| **M9 Passarela** | 2–4 passos em direção à câmera, braços balançando soltos | Passos cruzados, ritmo da música | Caimento em movimento | 01 (8,7–10,7 s), 03, 05 |
-| **M10 Virada de costas** | Gira 180°, mãos nos bolsos traseiros ou na lateral do bumbum | Giro em 2 tempos, para de costas 1 s | Bolsos traseiros, bumbum empinado, etiqueta | 03 (10,7–11,3 s), 04, 05 (9–10 s), 06, 07 (7,3–8,7 s) |
-| **M11 Perfil 3/4** | Vira de lado, uma mão na cintura | Quadril projetado | Silhueta, cintura alta | 03 (10,7 s), 04 |
-| **M12 Pose final** | Mãos na cintura/quadril (ou polegares nos passantes), joga o cabelo | Segura 1 s | Fechamento confiante | 01 (12 s), 03 (11,3 s) |
+| **M1 Pose de abertura** | De frente, peso numa perna, mão ajusta o top ou repousa na cintura | Já começa com movimento leve | Caimento geral, cintura alta | todos |
+| **M2 Passo-gancho** | Passo à frente cruzando a perna | Pisa na ponta, quadril acompanha | Movimento do tecido | 01, 03, 05, 12 |
+| **M3 Joelho alto / chute lateral** | Levanta o joelho até o quadril ou chuta para o lado | Sobe rápido, desce lento | Elasticidade, liberdade | 01, 02, 03, 07, 12 (4 s e 7 s) |
+| **M4 Mão que desliza** | Palma aberta desliza do quadril à coxa | Lento, close | Textura, tecido de qualidade | 02, 04, 06, 09, 11 (20 s), 12 (15 s) |
+| **M5 Belisca-e-estica** | Pinça o tecido da coxa e puxa para fora | Segura 0,5 s | Stretch, elastano | 04, 06 |
+| **M6 Abre-as-laterais** | As duas mãos abrem o tecido nas laterais do quadril | Simétrico, de frente | Folga, perna larga | 01, 05, 07, 08 (10 s) |
+| **M7 Cós / polegares no cós** | Polegares no cós ou nos passantes, ajeitam ou puxam e soltam | Close na cintura | Cintura alta, ajuste, cós elástico | 01, 02, 07, 08 (2 s), 09 (2 s, 15 s), 10 (7 s, 11 s), 11 (2 s, 9 s, 16 s), 12 (2 s, 11 s, 14 s) |
+| **M8 Mão no bolso** | Enfia a mão no bolso da frente | Quadril para o lado do bolso | Bolso fundo e funcional | 01, 03, 05, 09 (3 s, 9 s, 16 s), 10 (12 s, 15 s), 11 (17 s), 12 (6 s) |
+| **M9 Passarela** | 2–4 passos em direção à câmera | Passos cruzados, braços soltos | Caimento em movimento | 01, 03, 05, 09 (7 s), 12 (11 s) |
+| **M10 Virada de costas** | Gira 180°, mãos nos bolsos traseiros | Para de costas 1 s | Bolsos traseiros, bumbum | 03, 04, 05, 06, 07 |
+| **M11 Perfil 3/4** | Vira de lado com a mão na cintura | Quadril projetado | Silhueta | 03, 04, 12 (10 s, 13 s) |
+| **M12 Pose final** | Mãos na cintura/quadril, joga o cabelo | Segura 1 s | Fechamento confiante | 01, 03 |
+| **M13 Ajuste de gola/decote** | Dedos correm pela gola, alça ou decote | Lento, close | Acabamento | *(provisório)* |
+| **M14 Giro de saia** | Meio giro ou giro completo, a saia abre | Braços levemente afastados | Fluidez, rodado | *(provisório)* |
+| **M15 Marca a cintura / barriga** | As duas mãos espalmadas na barriga ou na cintura, descem até o quadril | Simétrico | Cintura marcada, não aperta | 08 (5 s, 9 s) |
+| **M16 Braços para cima** | Ajeita o cabelo com os braços erguidos | Devagar | Costas, a blusa não sobe | *(provisório)* |
+| **M17 Barra da blusa** | Pega a barra da blusa nas laterais e estica para baixo | De frente | Comprimento, caimento | 08 (4 s, 7 s, 11 s) |
+| **M18 Manga** | A mão desliza ou segura a manga do outro braço | Close do ombro | Tecido, comprimento da manga | 08 (14 s) |
+| **M19 Conjunto completo** | Plano aberto mostrando as duas peças juntas | Parada ou meio giro | Look pronto | 08 (todos os planos abertos) |
+| **M20 Tira do pacote** | Segura o saquinho transparente na frente do quadril, já vestindo a peça, e puxa a peça para fora | Primeiro quadro do vídeo | Produto real, embalagem, chegou certinho | 09 (0–1 s), 11 (0 s), 12 (0 s) |
+| **M21 Troca de cor no corte** | A mesma pose ou movimento repete com outra cor, em corte seco | Mesmo enquadramento e mesmo cenário | Variedade de cores | 08–12 (3 cores cada) |
+| **M22 Seta para o carrinho** | Seta vermelha curva desenhada à mão, perto da coxa, apontando para baixo e à esquerda (onde fica o carrinho do TikTok Shop) | Aparece no último terço, até o fim | CTA: "compre aqui" | 08 (16–18 s), 09 (16–20 s), 10 (14–20 s), 11 (14–21 s), 12 (16–19 s) |
+| **M23 Cartão final** | Tela preta com o logo do TikTok e a busca do @ da loja | 3–5 s finais | Seguir a loja | 05, 08–12 |
+| **M24 Peso de um lado para o outro** | Parada de frente, transfere o peso de uma perna para a outra | Suave, quadril balança | Caimento e silhueta sem sair do lugar | 10 (0–4 s, 13–17 s) |
 
-### Movimentos para parte de cima e peças inteiras (provisórios)
+## Estruturas de roteiro
 
-Estes movimentos ainda **não foram vistos** nas referências. São adaptações do mesmo estilo para cobrir blusa, vestido e conjunto. Quando um vídeo de referência confirmar ou corrigir um deles, atualize a linha e cite o vídeo.
+### Formato B — Vitrine de cores (25 s) — padrão para a loja
 
-| Código | Movimento | Como fazer | O que vende |
+| Tempo | Bloco | O que acontece | Movimentos |
 |---|---|---|---|
-| **M13 Ajuste de gola/decote** | Dedos correm pela gola, alça ou decote | Lento, close do colo para baixo | Acabamento, modelagem do decote |
-| **M14 Giro de saia** | Meio giro ou giro completo, a saia/vestido abre | Braços levemente afastados do corpo | Fluidez, rodado, leveza |
-| **M15 Marca a cintura** | As duas mãos apertam a cintura e descem até o quadril | Simétrico, de frente | Cintura marcada, silhueta |
-| **M16 Braços para cima** | Ajeita o cabelo com os dois braços erguidos, depois vira de costas | Devagar | Costas, alças, a blusa não sobe |
-| **M17 Barra da blusa** | Puxa a barra para baixo ou dá o nó na frente | Close na cintura | Comprimento, versatilidade |
-| **M18 Manga** | Estica o braço e a outra mão desliza pela manga | Close do ombro ao punho | Tecido, comprimento da manga |
-| **M19 Conjunto completo** | Recua até o corpo inteiro e dá meio giro mostrando as duas peças juntas | Plano aberto | Peças combinando, look pronto |
+| 0–1 s | **Gancho: pacote** | Modelo, já vestindo a cor 1, segura e abre o saquinho | M20 |
+| 1–4 s | **Cor 1** | Plano aberto, depois close do cós, depois mão no bolso | M1, M7, M8 |
+| 4–8 s | **Cor 2** | Mesmo roteiro, com outra variação | M3 ou M24, M7, M8/M4 |
+| 8–12 s | **Cor 3** | Mesmo roteiro | M1, M7, M9 |
+| 12–20 s | **Repasse rápido + CTA** | As 3 cores de novo, cortes de 1 s, closes de detalhe (M4, M8), com a **seta para o carrinho** a partir de ~14–16 s | M21, M4, M8, M22 |
+| 20–25 s | **Cartão final** | Tela do @ da loja | M23 |
 
-## Estrutura padrão (10–12 s)
+**Para 30–40 s:** acrescente uma 4ª cor (4 s cada) e/ou um bloco de 4–6 s com M3 (joelho alto), M10 (costas) e M11 (perfil), antes do repasse com a seta.
+
+### Formato A — Provador (10–15 s; versão em ciclo com 30–45 s)
 
 | Tempo | Bloco | Movimentos | Câmera |
 |---|---|---|---|
-| 0–1 s | **Gancho** | M1 → M2 | Plano corpo inteiro (sem rosto), altura do quadril |
-| 1–3 s | **Flexibilidade** | M3 | Mesmo plano, leve aproximação |
-| 3–6 s | **Detalhe** | M4, M7 ou M8 e M5 | Close no quadril/coxa (zoom ou corte) |
-| 6–7,5 s | **Folga** | M6 | Volta para corpo inteiro |
-| ~8 s | **Transição** | efeito rápido (fusão, raio de luz, zoom "moldura") | — |
-| 8–10 s | **Movimento** | M9 | Corpo inteiro, câmera parada ou recuando |
-| 10–12 s | **Costas + final** | M10 → M11 → M12 | Corpo inteiro |
-| +1–2 s | (opcional) | cartão final da loja / @ | — |
+| 0–1 s | Gancho | M1 → M2 | Corpo inteiro, altura do quadril |
+| 1–3 s | Flexibilidade | M3 | Leve aproximação |
+| 3–6 s | Detalhe | M4, M7 ou M8 e M5 | Close quadril/coxa |
+| 6–7,5 s | Folga | M6 | Corpo inteiro |
+| ~8 s | Transição | Fusão, raio de luz ou zoom "moldura" | — |
+| 8–10 s | Movimento | M9 | Corpo inteiro |
+| 10–12 s | Costas + final | M10 → M11 → M12 | Corpo inteiro |
 
-**Versão longa (30–45 s, ref. 04):** repita o ciclo M1 → M4 → M10 → M5 → M11 com pausas curtas e música mais lenta. Funciona melhor para peças justas (skinny, legging, jeans modelador), em que a meta é mostrar o contorno do corpo de vários ângulos.
+**Versão em ciclo de 30–45 s (ref. 04):** repita M1 → M4 → M10 → M5 → M11 com música mais lenta. Funciona para peças justas (skinny, legging, jeans modelador). Termine com M22 + M23 para virar vídeo de venda.
 
 ## Ajuste por tipo de peça
 
-Validado nas referências (calças e bermudas):
+Validado nas referências:
 
-- **Calça wide / pantalona / jeans largo:** enfatize M3, M6 e M9 (o tecido "balança"). Tênis branco.
-- **Skinny / legging / jeans modelador:** enfatize M4, M5, M10 e M11. Mais tempo de costas e de perfil. Movimento mais lento.
-- **Alfaiataria:** gestos mais contidos e elegantes, scarpin nude, M3 só com joelho alto (sem chute), M10 com mãos espalmadas nos bolsos traseiros. Cenário café/restaurante sofisticado.
-- **Moletom / jogger / pijama:** M4 e M5 em close bem fechado (textura e maciez), M7 com cordão, chinelo slide. Clima "conforto em casa".
-- **Bermuda / short:** M6 (folga da perna), M8, M10. Câmera um pouco mais baixa.
-- **Peças com estampa:** mais tempo em plano aberto; o close tem que mostrar a estampa nítida.
+- **Alfaiataria (calça reta, cigarrete, wide):** Formato B. Muitos closes de cós com botão e pregas (M7) e bolso (M8). Regata branca, sandália de salto fina preta (reta e cigarrete) ou tênis branco (wide). Na wide, inclua M3 (joelho alto). Quarto claro com abajur. (09, 11, 12, 07)
+- **Conjunto curto / pijama (blusa com botões + short):** Formato B. M17 (estica a barra da blusa), M15 (mãos na barriga), M6 (abre o short), M18 (manga), M19 em plano aberto do pescoço até o meio da coxa. Sala clara e aconchegante. (08)
+- **Short de alfaiataria / short com cinto:** Formato B. Enquadramento do busto até o joelho, M24 (peso de um lado para o outro), M7 com close no cinto e na fivela, M8. Top preto. (10)
+- **Calça wide / jeans largo (1 cor):** Formato A com ênfase em M3, M6 e M9. Tênis branco. (01, 03)
+- **Skinny / legging / jeans modelador:** Formato A ou ciclo longo, com M4, M5, M10 e M11. (04)
+- **Moletom / jogger / pijama de calça:** M4 e M5 em close bem fechado, M7 com cordão. Chinelo slide. (02, 06)
+- **Bermuda jeans:** M6, M8, M10, câmera um pouco mais baixa. (05)
 
-Adaptados (provisórios até chegarem referências dessas categorias):
+Adaptados (provisórios até chegarem referências):
 
-- **Conjunto curto (short/saia curta + top):** abertura em plano inteiro com M19, depois M3 e M6 no short e M15 + M17 no top. Termina com M10 e M19. Tênis ou rasteira, cenário claro e de verão.
-- **Conjunto longo (calça/saia longa + blusa):** M19 abre e fecha o vídeo. Mais M9 (passarela longa), M4 no tecido e M15 para unir as duas peças. Sandália ou scarpin, cenário de hotel.
-- **Vestido:** o enquadramento sobe para do queixo aos pés. Abre com M14, depois M15, M13, M9 e M10 com M16 para mostrar as costas. Se for vestido justo, troque M14 por M11 e M4.
-- **Blusa / top / camisa:** enquadramento do queixo até o meio da coxa, com a blusa por dentro de uma calça neutra. Sequência M13, M18, M17, M16, M10. Não use chute (M3); use meio giro de ombro no lugar.
-- **Saia:** saia rodada segue o vestido (M14 + M9). Saia lápis ou justa segue o skinny (M4, M11, M10). Mostre a fenda com M2.
+- **Conjunto longo (calça/saia longa + blusa):** Formato B com M19 em plano aberto do pescoço aos pés, M17 e M15 na blusa, M7, M8 e M3 na calça, e M9 no final. Sandália ou scarpin.
+- **Vestido:** enquadramento do queixo aos pés. M14 (giro), M15, M13, M9, M10 com M16. Vestido justo: troque M14 por M11 e M4.
+- **Blusa / camisa:** enquadramento do queixo até o meio da coxa, blusa por dentro de calça neutra. M13, M18, M17, M16, M10. Sem M3.
+- **Saia:** rodada como o vestido; justa como o skinny; mostre a fenda com M2.
+
+## Narração e texto na tela
+
+As referências 08–12 têm música de fundo e, pelo espectrograma, provavelmente **uma voz falando por cima**. O conteúdo da fala **ainda não foi transcrito**: a sessão em que foram estudadas não conseguia baixar um modelo de transcrição. Até a criadora mandar o texto (ou uma transcrição), use a estrutura abaixo como **provisória**. É a estrutura comum de vídeos do TikTok Shop, não aprendida destes vídeos:
+
+| Tempo | Fala (exemplo para calça de alfaiataria) |
+|---|---|
+| 0–3 s (gancho) | "Olha o que chegou! A calça de alfaiataria que não amassa e veste do 36 ao 46." |
+| 3–12 s (benefícios, 1 por cor) | "Cintura alta que modela… bolso de verdade, cabe o celular… tecido com elastano, não marca." |
+| 12–18 s (cores / prova social) | "Tem preta, azul-marinho e lilás, e já é a mais vendida da loja." |
+| 18–22 s (CTA, junto com a seta) | "Clica no carrinho aqui embaixo antes que acabe o seu tamanho!" |
+
+Regras para a fala: frases curtas, 1 benefício por corte, o CTA sincronizado com a seta (M22), sem prometer o que o produto não tem.
 
 ## Como identificar a peça pela imagem
 
-Ao receber uma foto, observe e registre em uma linha:
+Registre em uma linha:
 
-- **Categoria:** conjunto curto, conjunto longo, vestido, calça, blusa, saia, bermuda, macacão…
-- **Modelagem:** justa, reta, wide, rodada, oversized, cropped.
-- **Tecido aparente:** jeans, alfaiataria, malha, moletom, linho, cetim, tricô.
-- **Detalhes vendáveis:** cintura alta, cós elástico, botões, fenda, bolsos, amarração, decote, alças, estampa.
+- **Categoria:** conjunto curto, conjunto longo, vestido, calça, blusa, saia, short, bermuda, pijama, macacão…
+- **Modelagem:** justa, reta, cigarrete, wide, rodada, oversized, cropped.
+- **Tecido aparente:** jeans, alfaiataria, malha/viscolycra, moletom, linho, tweed, cetim, tricô.
+- **Detalhes vendáveis:** cintura alta, cós elástico, botões, pregas, cinto, fenda, bolsos, amarração, decote, debrum contrastante, estampa.
+- **Cores disponíveis:** se houver mais de uma → Formato B.
 - **Ocasião:** casa, dia a dia, trabalho, festa, praia.
-
-Escolha a linha correspondente em "Ajuste por tipo de peça". Se a peça misturar categorias (por exemplo, macacão), combine os movimentos das duas.
 
 ## Como responder a um pedido
 
-Quando a criadora mandar um produto (foto, nome, link ou descrição):
-
-1. Identifique a peça (seção acima) e os **3 atributos que mais vendem** (ex.: "cintura alta, não marca, tem elastano").
-2. Ligue cada atributo a um movimento da biblioteca.
+1. Identifique a peça e os **3 atributos que mais vendem**.
+2. Escolha o formato (B se houver várias cores) e a duração (25–40 s).
 3. Entregue:
-   - **Roteiro em tabela** (tempo | movimento | direção para a modelo | enquadramento | texto na tela opcional).
+   - **Roteiro em tabela**: tempo | cor | movimento (código + nome) | direção para a modelo | enquadramento | fala/texto na tela.
    - **Figurino e cenário** em uma linha.
-   - **Sugestão de áudio:** batida pop/funk leve, 100–120 BPM, cortes no tempo da música.
-   - **Prompt para IA de vídeo** (se ela usa IA), no modelo abaixo.
-   - **Checklist rápido** antes de postar.
+   - **Áudio:** música pop/funk leve, 100–120 BPM, cortes na batida, com a narração por cima.
+   - **Prompt para IA de vídeo** (se ela usa IA), no modelo abaixo. Para o Formato B, 1 prompt por cor, trocando só a cor.
+   - **Checklist** antes de postar.
 4. Se ela mandar um novo vídeo de referência, siga "Aprendizado contínuo".
-
-## Aprendizado contínuo (novos vídeos de referência)
-
-Quando ela mandar vídeos para estudar:
-
-1. Para cada vídeo, gere uma grade de quadros com o tempo marcado: cerca de 1,5 quadro/s para vídeos de até 15 s e 0,5 quadro/s para vídeos longos.
-   ```bash
-   ffmpeg -i VIDEO -vf "fps=1.5,scale=230:-2,drawtext=text='%{pts\:hms}':x=4:y=4:fontsize=18:fontcolor=yellow:box=1:boxcolor=black@0.6,tile=7x3:padding=4" -frames:v 1 grade.jpg
-   ```
-   Olhe as grades. A skill `watch` também serve, se estiver instalada.
-2. Anote a sequência de movimentos com os tempos e compare com a biblioteca:
-   - Movimento já existente → acrescente o vídeo na coluna "Visto em".
-   - Movimento provisório (M13–M19) confirmado → mova para a tabela principal.
-   - Movimento novo → crie o próximo código (M20, M21…).
-3. Se for uma categoria nova, troque o texto "provisório" daquela categoria pelo padrão observado.
-4. Salve a grade em `referencias/NN-categoria-descricao.jpg`, continuando a numeração, e liste o arquivo na seção abaixo.
-5. Conte para a criadora, em poucas linhas, o que mudou na skill e faça commit.
 
 ## Modelo de prompt para vídeo com IA
 
-As referências têm o selo "AI-generated", então este estilo é reproduzível em geradores de imagem→vídeo (Kling, Veo, Sora, Hailuo etc.). Parta de uma foto real do produto vestido (ou foto flat + modelo) e use:
+As referências têm o selo "AI-generated", então este estilo é reproduzível em geradores de imagem→vídeo (Kling, Veo, Sora, Hailuo etc.). Gere clipes curtos (4–5 s), um por bloco ou cor, e monte no CapCut.
 
+**Gancho do pacote (Formato B):**
 ```
-Vertical 9:16 fashion try-on video, 10 seconds. Framing from chest to feet, face not visible.
-A woman wearing [PEÇA: cor, modelagem, tecido] with a fitted [cor] cropped tee and [calçado].
-Setting: [luxury hotel lobby with marble floor and warm ambient lighting].
-Continuous confident feminine movement: she shifts her weight onto one hip, steps forward,
-lifts her knee high to show the stretch, slides her open palm down her thigh, pulls the fabric
-at both hips outward to show the wide leg, walks toward the camera, then turns around and
-places her hands on the back pockets. Smooth motion, natural fabric movement,
-realistic hands, sharp fabric texture, product colors accurate.
+Vertical 9:16, 5 seconds, static frontal camera, framing from chest to feet, face not visible.
+A woman wearing [PEÇA E COR] with a fitted white tank top and [CALÇADO], standing in a bright
+minimalist bedroom with a lit bedside lamp. She holds a clear plastic packaging bag in front of
+her hips and pulls the folded garment out of it, then places her thumbs on the waistband.
+Realistic hands with manicured nails, gold watch, sharp fabric texture, accurate colors.
 ```
 
-Troque os trechos entre colchetes e remova os movimentos que não servem para a peça. Gere 2–3 clipes curtos (um por bloco) e monte no CapCut com transição no ~8 s; isso dá mais controle do que um clipe único.
+**Bloco de cor (Formato B):**
+```
+Vertical 9:16, 4 seconds, static frontal camera, framing from chest to feet, face not visible.
+Same woman and bedroom. She wears [PEÇA] in [COR]. She shifts her weight to one hip, adjusts the
+waistband with both thumbs, then slides one hand into the front pocket. Close-up feel, smooth
+natural movement, accurate fabric color.
+```
+
+**Provador (Formato A):**
+```
+Vertical 9:16 fashion try-on video, 10 seconds, framing from chest to feet, face not visible.
+A woman wearing [PEÇA] with a fitted [cor] cropped tee and [calçado], in [luxury hotel lobby with
+marble floor and warm lighting]. Continuous confident feminine movement: weight on one hip, steps
+forward, lifts her knee high, slides her open palm down her thigh, pulls the fabric at both hips
+outward, walks toward the camera, turns around with hands on the back pockets.
+```
+
+A seta (M22) e o cartão final (M23) se adicionam na edição (CapCut: adesivo de seta desenhada à mão em vermelho), não no gerador.
 
 ## Checklist antes de postar
 
-- [ ] Gancho em movimento já no primeiro quadro (sem tela parada)
+- [ ] Gancho já no primeiro quadro (pacote ou movimento), sem tela parada
 - [ ] Rosto fora do quadro, peça ocupa ≥ 70% da tela
-- [ ] Pelo menos 1 close de tecido (M4 ou M5) e 1 vista de costas (M10)
-- [ ] Cor da peça fiel ao produto real (o comprador reclama se não bater)
+- [ ] Pelo menos 1 close de cós/bolso e 1 de tecido
+- [ ] Todas as cores aparecem pelo menos 2 vezes (Formato B)
+- [ ] Seta para o carrinho no último terço + cartão do @ no final
+- [ ] Cor da peça fiel ao produto real
 - [ ] Vídeo feito com IA → ativar o rótulo "Conteúdo gerado por IA" do TikTok
-- [ ] Não usar vídeo/marca d'água de outra criadora — só reproduzir o *estilo*
+- [ ] Não usar vídeo ou marca d'água de outra criadora: só reproduzir o *estilo*
 - [ ] Produto vinculado no carrinho do TikTok Shop
 
-## Referências visuais
+## Aprendizado contínuo (novos vídeos de referência)
 
-`referencias/` contém uma grade de quadros com o tempo de cada vídeo estudado. Abra a grade correspondente ao tipo de peça quando precisar lembrar exatamente de uma pose:
+1. Gere a grade de quadros de cada vídeo (1,5 quadro/s até 15 s; 1 quadro/s até 40 s; 0,5 quadro/s para vídeos mais longos):
+   ```bash
+   ffmpeg -i VIDEO -vf "fps=1,scale=200:-2,drawtext=text='%{pts\:hms}':x=4:y=4:fontsize=16:fontcolor=yellow:box=1:boxcolor=black@0.6,tile=9x3:padding=4" -frames:v 1 grade.jpg
+   ```
+2. Se o vídeo tiver áudio, tente transcrever (skill `watch` com Whisper, ou faster-whisper). Se a rede bloquear o download do modelo, avise a criadora e peça o texto da narração.
+3. Compare com a biblioteca: acrescente o vídeo em "Visto em"; confirme os provisórios (M13, M14, M16); crie códigos novos a partir do M25.
+4. Atualize "Ajuste por tipo de peça" e, se aprender a fala, a seção de narração.
+5. Salve a grade em `referencias/NN-categoria-descricao.jpg` (continuando a numeração) e liste-a abaixo.
+6. Conte para a criadora, em poucas linhas, o que mudou, e faça commit.
 
-- `01-calca-wide-preta.jpg`: wide preta, lobby de hotel (modelo completo dos 12 s)
-- `02-calca-pijama-estampada.jpg`: pijama estampado, chinelo (M3 + M4 + transição em moldura)
-- `03-jeans-wide-azul.jpg`: jeans wide (closes de bolso, transição com raio de luz, final com cabelo)
-- `04-skinny-preta-41s.jpg`: skinny, versão longa em ciclo
-- `05-bermuda-jeans.jpg`: bermuda (M6 duas vezes, costas, cartão final)
-- `06-moletom-cinza.jpg`: moletom (macro de textura + belisca-e-estica)
-- `07-alfaiataria-bege.jpg`: alfaiataria com scarpin (joelho alto elegante, costas)
+## Referências visuais (`referencias/`)
+
+- `01-calca-wide-preta.jpg`: Formato A completo, lobby de hotel
+- `02-calca-pijama-estampada.jpg`: pijama estampado (M3, M4, transição em moldura)
+- `03-jeans-wide-azul.jpg`: jeans wide (closes de bolso, raio de luz, cabelo no final)
+- `04-skinny-preta-41s.jpg`: skinny, ciclo longo
+- `05-bermuda-jeans.jpg`: bermuda (M6, costas, cartão final)
+- `06-moletom-cinza.jpg`: moletom (macro de textura, M5)
+- `07-alfaiataria-bege.jpg`: alfaiataria com scarpin, Formato A
+- `08-conjunto-curto-pijama-3cores.jpg`: Formato B, conjunto pijama com botões (rosa, preto, marinho)
+- `09-alfaiataria-reta-3cores-unboxing.jpg`: Formato B com M20 (turquesa, bege, terracota)
+- `10-short-alfaiataria-cinto-3cores.jpg`: Formato B, short com cinto (M24)
+- `11-alfaiataria-cigarrete-3cores-unboxing.jpg`: Formato B com M20 (lilás, preto, marinho)
+- `12-alfaiataria-wide-3cores-unboxing.jpg`: Formato B com M20 + M3 (cinza, preto, caramelo)
