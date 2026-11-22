@@ -150,35 +150,52 @@ Registre em uma linha:
 
 ## Modelo de prompt para vídeo com IA
 
-As referências têm o selo "AI-generated", então este estilo é reproduzível em geradores de imagem→vídeo (Kling, Veo, Sora, Hailuo etc.). Gere clipes curtos (4–5 s), um por bloco ou cor, e monte no CapCut.
+As referências têm o selo "AI-generated", então este estilo é reproduzível em geradores de imagem→vídeo (Kling, Veo, Sora, Hailuo etc.). A foto da criadora (modelo já vestindo a peça) é o **quadro inicial**. Gere clipes curtos (3–6 s), um por bloco ou cor, e monte no CapCut.
 
-**Gancho do pacote (Formato B):**
-```
-Vertical 9:16, 3 seconds, fast-paced, static frontal camera, framing from chest to feet,
-face not visible. A woman wearing [PEÇA E COR] with [CALÇADO], standing in a bright minimalist
-bedroom. She holds a sealed clear plastic packaging bag in front of her hips, quickly tears it
-open, pulls out an identical [PEÇA E COR] (the exact same garment she is wearing), unfolds it and
-holds it up in front of her body to show it to the camera. Realistic hands with manicured nails,
-gold watch, crinkling plastic, sharp fabric texture, accurate colors.
-```
-Gere ou grave esse clipe **com som** (plástico rasgando). Na edição, deixe 1–2 s e corte seco para o primeiro take com a peça no corpo. Se o gerador errar, mostrando uma peça diferente da que ela veste, gere de novo: a graça do gancho é ser **a mesma peça**.
+### ⚠️ Regra de ouro: o prompt descreve só AÇÃO, nunca a peça
 
-**Bloco de cor (Formato B):**
+- **Não descreva a roupa** (gola, decote, alças, cor, modelagem, tecido, botões), **nem os acessórios** (colar, bracelete, relógio) **nem o cenário**. Tudo isso já está na imagem. Se o prompt descrever, o gerador **refaz** a peça a partir do texto e exagera (ex.: "gola alta" vira uma gola muito mais alta).
+- Refira-se à peça só como **"the exact same [garment] she is wearing in the reference image"** e peça explicitamente para **manter tudo idêntico**.
+- No gancho do pacote, a peça que sai do saquinho tem que ser **cópia exata** da que ela veste: mesmas características, mesma cor, mesmo comprimento.
+- Para cada categoria, use a palavra genérica: *jumpsuit, pants, dress, top, set, shorts, skirt*.
+
+**Frase de fidelidade (cole no fim de TODO prompt):**
 ```
-Vertical 9:16, 4 seconds, static frontal camera, framing from chest to feet, face not visible.
-Same woman and bedroom. She wears [PEÇA] in [COR]. She shifts her weight to one hip, adjusts the
-waistband with both thumbs, then slides one hand into the front pocket. Close-up feel, smooth
-natural movement, accurate fabric color.
+Keep the garment, accessories, body and setting exactly as in the reference image.
+Do not change, add or exaggerate any detail of the clothing.
 ```
 
-**Provador (Formato A):**
+**Gancho do pacote:**
 ```
-Vertical 9:16 fashion try-on video, 10 seconds, framing from chest to feet, face not visible.
-A woman wearing [PEÇA] with a fitted [cor] cropped tee and [calçado], in [luxury hotel lobby with
-marble floor and warm lighting]. Continuous confident feminine movement: weight on one hip, steps
-forward, lifts her knee high, slides her open palm down her thigh, pulls the fabric at both hips
-outward, walks toward the camera, turns around with hands on the back pockets.
+Vertical 9:16, 3 seconds, fast-paced, static camera, same framing as the reference image, face not visible.
+She holds a sealed clear plastic packaging bag in front of her hips, quickly tears it open with a
+crinkling sound, pulls out an identical copy of the exact same [garment] she is wearing, unfolds it
+and holds it up in front of her body to show the camera.
+The garment pulled from the bag must be an exact duplicate of the one she is wearing.
+Keep the garment, accessories, body and setting exactly as in the reference image.
+Do not change, add or exaggerate any detail of the clothing.
 ```
+Gere ou grave esse clipe **com som** (plástico rasgando). Na edição, deixe 1–2 s e corte seco para o primeiro take com a peça no corpo. Se a peça que sai do pacote vier diferente da que ela veste, gere de novo.
+
+**Bloco de movimento (troque só as ações):**
+```
+Vertical 9:16, [4–6] seconds, same framing as the reference image, face not visible.
+[AÇÕES: ex. She puts one hand in her pocket and shifts her weight to one hip, then slides both
+open palms along the waist and down the pleats.] Smooth, natural, confident feminine movement.
+Keep the garment, accessories, body and setting exactly as in the reference image.
+Do not change, add or exaggerate any detail of the clothing.
+```
+
+**Biblioteca de ações em inglês (para colar no bloco):**
+- M1/M8: *She puts one hand in her pocket and shifts her weight to one hip.*
+- M3: *She slowly lifts one knee so the fabric drapes.*
+- M4: *She slides her open palm down her thigh, squeezes the fabric and releases it.*
+- M6: *She pulls the fabric at both hips outward.*
+- M7: *She adjusts the waistband with both thumbs.*
+- M9: *She walks three steps toward the camera with relaxed arms.*
+- M10/M16 (a partir da foto de costas): *Seen from behind, she slowly lifts her hair with both hands, then runs her hands along her waist.*
+- M11: *She turns to a 3/4 profile with a hand in her pocket.*
+- M15: *She slides both open palms along her waist down to her hips.*
 
 A seta (M22) e o cartão final (M23) se adicionam na edição (CapCut: adesivo de seta desenhada à mão em vermelho), não no gerador.
 
