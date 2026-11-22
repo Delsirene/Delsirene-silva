@@ -57,7 +57,7 @@ Esta skill codifica o estilo aprendido de 12 vídeos de referência de moda femi
 | **M17 Barra da blusa** | Pega a barra da blusa nas laterais e estica para baixo | De frente | Comprimento, caimento | 08 (4 s, 7 s, 11 s) |
 | **M18 Manga** | A mão desliza ou segura a manga do outro braço | Close do ombro | Tecido, comprimento da manga | 08 (14 s) |
 | **M19 Conjunto completo** | Plano aberto mostrando as duas peças juntas | Parada ou meio giro | Look pronto | 08 (todos os planos abertos) |
-| **M20 Tira do pacote** | Segura o saquinho transparente na frente do quadril, já vestindo a peça, e puxa a peça para fora | Primeiro quadro do vídeo | Produto real, embalagem, chegou certinho | 09 (0–1 s), 11 (0 s), 12 (0 s) |
+| **M20 Tira do pacote (unboxing)** | Já vestindo a peça, rasga o plástico do pacote **com barulho**, tira de dentro uma peça **idêntica à que está vestindo** (mesma cor) e segura essa peça aberta na frente do corpo, mostrando para a câmera. Corte seco: o próximo take já é ela com a peça no corpo | **Rápido: 1–2 s no total.** O som do plástico rasgando (ASMR) fica alto e a música entra depois | Produto real, chegou embalado, "é exatamente isso que você recebe" | 09 (0–1 s), 11 (0 s), 12 (0 s); explicação da criadora |
 | **M21 Troca de cor no corte** | A mesma pose ou movimento repete com outra cor, em corte seco | Mesmo enquadramento e mesmo cenário | Variedade de cores | 08–12 (3 cores cada) |
 | **M22 Seta para o carrinho** | Seta vermelha curva desenhada à mão, perto da coxa, apontando para baixo e à esquerda (onde fica o carrinho do TikTok Shop) | Aparece no último terço, até o fim | CTA: "compre aqui" | 08 (16–18 s), 09 (16–20 s), 10 (14–20 s), 11 (14–21 s), 12 (16–19 s) |
 | **M23 Cartão final** | Tela preta com o logo do TikTok e a busca do @ da loja | 3–5 s finais | Seguir a loja | 05, 08–12 |
@@ -69,7 +69,7 @@ Esta skill codifica o estilo aprendido de 12 vídeos de referência de moda femi
 
 | Tempo | Bloco | O que acontece | Movimentos |
 |---|---|---|---|
-| 0–1 s | **Gancho: pacote** | Modelo, já vestindo a cor 1, segura e abre o saquinho | M20 |
+| 0–2 s | **Gancho: pacote** | Já vestindo a cor 1, rasga o plástico (som alto), tira a peça idêntica, abre na frente do corpo e mostra. Corte seco para o take seguinte | M20 |
 | 1–4 s | **Cor 1** | Plano aberto, depois close do cós, depois mão no bolso | M1, M7, M8 |
 | 4–8 s | **Cor 2** | Mesmo roteiro, com outra variação | M3 ou M24, M7, M8/M4 |
 | 8–12 s | **Cor 3** | Mesmo roteiro | M1, M7, M9 |
@@ -154,12 +154,14 @@ As referências têm o selo "AI-generated", então este estilo é reproduzível 
 
 **Gancho do pacote (Formato B):**
 ```
-Vertical 9:16, 5 seconds, static frontal camera, framing from chest to feet, face not visible.
-A woman wearing [PEÇA E COR] with a fitted white tank top and [CALÇADO], standing in a bright
-minimalist bedroom with a lit bedside lamp. She holds a clear plastic packaging bag in front of
-her hips and pulls the folded garment out of it, then places her thumbs on the waistband.
-Realistic hands with manicured nails, gold watch, sharp fabric texture, accurate colors.
+Vertical 9:16, 3 seconds, fast-paced, static frontal camera, framing from chest to feet,
+face not visible. A woman wearing [PEÇA E COR] with [CALÇADO], standing in a bright minimalist
+bedroom. She holds a sealed clear plastic packaging bag in front of her hips, quickly tears it
+open, pulls out an identical [PEÇA E COR] (the exact same garment she is wearing), unfolds it and
+holds it up in front of her body to show it to the camera. Realistic hands with manicured nails,
+gold watch, crinkling plastic, sharp fabric texture, accurate colors.
 ```
+Gere ou grave esse clipe **com som** (plástico rasgando). Na edição, deixe 1–2 s e corte seco para o primeiro take com a peça no corpo. Se o gerador errar, mostrando uma peça diferente da que ela veste, gere de novo: a graça do gancho é ser **a mesma peça**.
 
 **Bloco de cor (Formato B):**
 ```
