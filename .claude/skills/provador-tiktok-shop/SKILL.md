@@ -271,6 +271,18 @@ Do not change, add or exaggerate any detail of the clothing.
 
 > Gere **no máximo 2–3 ações por clipe**. Com mais ações, o gerador mistura tudo e deforma a peça. Para um vídeo dinâmico, gere muitos clipes curtos e corte bastante na edição.
 
+### Google Flow (Veo): vídeos em partes de 10 s
+
+A criadora gera no **Flow**, que faz no máximo **10 s por vídeo**. Quando ela pedir roteiro para o Flow:
+
+- Divida o vídeo em **Parte 1 (0–10 s) e Parte 2 (10–20 s)**. A seta e o cartão final entram na edição (+3 s).
+- A **Parte 1 termina numa pose estável e centralizada** (de frente para a câmera, parada por 0,5 s), para a Parte 2 continuar sem salto.
+- A **Parte 2 começa exatamente dessa pose**: no Flow, use **Extend** (Estender) a partir da Parte 1, ou o último quadro da Parte 1 como imagem inicial.
+- Escreva o prompt com **linha do tempo** ([00:00–00:02] …) e no máximo 4–5 ações por parte.
+- O Veo gera **voz**: coloque a fala no prompt, em português do Brasil, e peça "no background music" (a música em alta entra na edição).
+- Fala de cada parte: **~20–25 palavras** (cabe em 10 s).
+- Continua valendo a regra de ouro: nada de descrever a peça; só ações + frase de fidelidade.
+
 A seta (M22) e o cartão final (M23) se adicionam na edição (CapCut: adesivo de seta desenhada à mão em vermelho), não no gerador.
 
 ## Checklist antes de postar
