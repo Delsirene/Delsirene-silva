@@ -168,6 +168,19 @@ Adaptados (provisórios até chegarem referências):
 6. **Ocasião de uso no calendário:** festas de fim de ano, "uma cor para cada ocasião".
 7. **Preço como curiosidade** (nunca falar o valor) + **CTA "carrinho laranja aqui embaixo"**.
 
+### Banco de ganchos fortes (primeiros 2 s)
+
+Combine **ação visual forte** (rasgar o pacote com força, a peça abrindo em direção à câmera) com **uma frase de curiosidade ou confissão** que abre uma dúvida, respondida só no final (no CTA):
+
+- "Ninguém acredita quanto eu paguei nisso aqui!" → final: "o preço… só clicando no carrinho pra acreditar"
+- "Não era pra eu mostrar isso… porque vai esgotar."
+- "Todo mundo na ceia vai te perguntar onde você comprou."
+- "Para de rolar se você ainda não tem roupa pro Natal!"
+- "Esse é o macacão que tá esgotando em todo lugar."
+- "Gente, eu fiz besteira…"
+
+Regras: até 8 palavras; nada de "oi, gente" nem apresentação; sem citar o valor do preço; a dúvida aberta no gancho tem que ser respondida no CTA.
+
 ### Regras para melhorar qualquer fala
 
 - O gancho tem que ter **conflito ou confissão** nos primeiros 2 s ("fiz besteira", "não era pra eu ter feito isso").
