@@ -63,6 +63,44 @@ Esta skill codifica o estilo aprendido de 12 vídeos de referência de moda femi
 | **M23 Cartão final** | Tela preta com o logo do TikTok e a busca do @ da loja | 3–5 s finais | Seguir a loja | 05, 08–12 |
 | **M24 Peso de um lado para o outro** | Parada de frente, transfere o peso de uma perna para a outra | Suave, quadril balança | Caimento e silhueta sem sair do lugar | 10 (0–4 s, 13–17 s) |
 
+### Movimentos dinâmicos (pedido da criadora: modelo SEMPRE em movimento)
+
+| Código | Movimento | Como fazer | O que vende |
+|---|---|---|---|
+| **M25 Corridinha** | Trotinho no lugar ou 3–4 passos correndo em direção à câmera | Leve e saltitante | Tecido leve, liberdade |
+| **M26 Agachamento** | Agacha até o fundo e sobe, com as mãos nas coxas ou à frente | 1 vez, controlado | Conforto, não aperta, não rasga |
+| **M27 Perna no alto + puxa tecido** | Levanta a perna dobrada, desliza a mão pela coxa e puxa o tecido com a perna ainda no alto | Segura no alto 1 s | Elasticidade e caimento ao mesmo tempo |
+| **M28 Giro 360°** | Giro completo, a pantalona/saia abre em volta | Braços levemente abertos | Fluidez, rodado |
+| **M29 Elástico das costas** | De costas, puxa o elástico (lastex) da cintura e solta (estalo) | Close nas costas | Ajusta em vários corpos |
+| **M30 Pulinho** | Pulo pequeno com os dois pés, o tecido flutua | Rápido; câmera lenta na edição | Leveza, movimento |
+| **M31 Flamingo** | Dobra uma perna para trás e segura o pé ou o tornozelo | Pose de 1 s | Elasticidade, pose fashion |
+| **M32 Passo lateral (step touch)** | Passo para o lado e junta, de um lado e do outro, no ritmo | Dança leve | Caimento em movimento |
+| **M33 Balanço de quadril** | Mãos na cintura, o quadril balança de um lado para o outro | No tempo da música | Silhueta, cintura marcada |
+| **M34 Pernas cruzadas** | Em pé, cruza uma perna na frente da outra e descruza | Elegante | Pose, caimento |
+| **M35 Afundo** | Passo largo à frente, dobra os joelhos e volta | 1 vez | Conforto, amplitude |
+| **M36 Senta e levanta** | Senta na beirada da cama ou poltrona, cruza as pernas e levanta | Natural | Conforto no dia a dia, não amassa |
+| **M37 Passo aberto** | Abre as pernas bem largo, mãos no quadril | Firme | Amplitude da pantalona |
+| **M38 Sacode a barra** | Segura o tecido na altura do joelho e balança | Rápido | Leveza, tecido solto |
+| **M39 Contorno do corpo** | As mãos descem pelas laterais do corpo, do busto ao quadril | Lento, sensual | Silhueta, modelagem |
+| **M40 Puxa e solta na frente** | Puxa o tecido da frente da coxa para a frente e solta | Seco | Tecido, caimento que volta |
+| **M41 Ombros** | Mexe os ombros no ritmo, depois ajeita a cava | Leve | Acabamento da parte de cima |
+| **M42 Pivô de passarela** | Anda para a câmera, gira meio corpo e volta andando de costas | Fluido | Frente e costas num só take |
+| **M43 Afasta de costas** | Anda se afastando de costas para a câmera, balançando o quadril | 2–3 passos | Costas e caimento |
+| **M44 Mãos para cima** | Levanta os dois braços e gira o tronco | No refrão da música | A peça não sobe nem desajusta |
+
+### Modo dinâmico (edição)
+
+Use sempre que a criadora pedir "dinâmico". Este é o padrão dela para provador.
+
+- **Corte a cada 0,5–1,2 s**, sempre na batida da música. 25–35 cortes em 30 s.
+- **Zoom "soco":** zoom rápido de 100% para 130–150% em 0,2 s nos detalhes (cintura, bolso, costas). Um a cada 3–4 cortes.
+- **Zoom out rápido** para revelar o corpo inteiro depois de um close.
+- **Câmera lenta (speed ramp 0,4–0,5x)** no giro, no pulinho e na revelação das costas; volta a 1x no corte seguinte.
+- **Corte casado (match cut):** o fim de um movimento emenda no começo do próximo (ex.: termina o giro e já está agachando).
+- **Tremidinha leve (shake)** nas batidas fortes.
+- **Nunca dois planos iguais seguidos:** alterne aberto → close → aberto → detalhe.
+- A modelo **nunca para**: se o take tiver menos de 1 s de pose, tudo bem; se tiver mais, corte.
+
 ## Estruturas de roteiro
 
 ### Formato B — Vitrine de cores (25 s) — padrão para a loja
@@ -196,6 +234,25 @@ Do not change, add or exaggerate any detail of the clothing.
 - M10/M16 (a partir da foto de costas): *Seen from behind, she slowly lifts her hair with both hands, then runs her hands along her waist.*
 - M11: *She turns to a 3/4 profile with a hand in her pocket.*
 - M15: *She slides both open palms along her waist down to her hips.*
+
+- M25: *She jogs lightly toward the camera.*
+- M26: *She does a full squat and stands back up.*
+- M27: *She lifts one bent leg high, slides her hand down her thigh and pulls the fabric while the leg is up.*
+- M28: *She spins 360 degrees so the fabric flares out.*
+- M29 (foto de costas): *Seen from behind, she pulls the elastic waistband at her back and lets it snap back.*
+- M30: *She does a small jump with both feet, the fabric floating.*
+- M31: *She bends one leg back and holds her ankle.*
+- M32: *She does side step-touch dance moves to the beat.*
+- M33: *With hands on her waist, she sways her hips side to side.*
+- M35: *She steps forward into a lunge and comes back.*
+- M36: *She sits on the edge of the bed, crosses her legs and stands up.*
+- M37: *She steps her feet wide apart with hands on her hips.*
+- M38: *She grabs the fabric at knee height and shakes it.*
+- M39: *She runs both hands down the sides of her body from bust to hips.*
+- M42: *She walks toward the camera, pivots and walks away.*
+- M44: *She raises both arms and twists her torso.*
+
+> Gere **no máximo 2–3 ações por clipe**. Com mais ações, o gerador mistura tudo e deforma a peça. Para um vídeo dinâmico, gere muitos clipes curtos e corte bastante na edição.
 
 A seta (M22) e o cartão final (M23) se adicionam na edição (CapCut: adesivo de seta desenhada à mão em vermelho), não no gerador.
 
