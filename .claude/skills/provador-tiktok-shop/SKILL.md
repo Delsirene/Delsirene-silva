@@ -34,6 +34,12 @@ Esta skill codifica o estilo aprendido de 12 vídeos de referência de moda femi
 4. **Postura feminina e segura.** Peso numa perna, quadril levemente projetado, joelho livre para dentro, ponta do pé alongada, ombros relaxados, dedos soltos e alongados — nunca punho fechado. Unhas feitas e relógio ou pulseira dourada aparecem muito nos closes de mão.
 5. **Figurino neutro que destaca a peça.** Regata ou cropped liso e justo (branco é o mais usado; preto quando a peça é clara ou estampada), sempre deixando a cintura da peça à mostra. Tênis branco para casual/wide, sandália de salto fina preta ou scarpin nude para alfaiataria, chinelo ou descalça para pijama.
 
+## ♥ Preferências da criadora (use sempre que couber)
+
+- **Ela ama movimentos de MÃO em close:** polegar e indicador pinçando o tecido, polegares correndo no cós, palma **alisando** o tecido devagar e mãos **puxando** o tecido (laterais, coxa, barra, laço, elástico). Em todo roteiro, inclua vários desses gestos (M4, M5, M6, M7, M39, M40, M29), com a câmera aproximando das mãos.
+- O "não amassa" é só falado, enquanto a mão passa no tecido (M45), a não ser que ela peça o teste curto (M45b).
+- Nos prompts para IA, descreva só as ações, nunca a roupa.
+
 ## Biblioteca de movimentos
 
 | Código | Movimento | Como fazer | O que vende | Visto em |
