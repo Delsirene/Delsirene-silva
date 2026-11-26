@@ -336,3 +336,4 @@ A seta (M22) e o cartão final (M23) se adicionam na edição (CapCut: adesivo d
 - `10-short-alfaiataria-cinto-3cores.jpg`: Formato B, short com cinto (M24)
 - `11-alfaiataria-cigarrete-3cores-unboxing.jpg`: Formato B com M20 (lilás, preto, marinho)
 - `12-alfaiataria-wide-3cores-unboxing.jpg`: Formato B com M20 + M3 (cinza, preto, caramelo)
+- `13-viral-wide-10s-parte1.jpg` / `13-viral-wide-10s-parte2.jpg`: **viral de 10 s, só movimentos, sem fala.** Duas metades de 5 s (corte com fusão aos 5 s). Ritmo de **um gesto a cada 0,5 s**: passarela curta → mãos no quadril (câmera aproxima) → abre as laterais → polegares no cós → mãos nos bolsos → perfil → costas com mãos no quadril → volta de frente (pose). 2ª metade: passarela → mão desliza na coxa → **perna no alto puxando o tecido no joelho (M27)** → vira de costas → mãos deslizando nos bolsos de trás. Câmera começa no corpo inteiro e vai aproximando até o quadril.
